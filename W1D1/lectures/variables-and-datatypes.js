@@ -6,7 +6,7 @@
 var myNum = 5;
 var myOtherNum = 10;
 
-console.log("hello world");
+console.log('hello world');
 console.log(myNum * myOtherNum);
 
 // mathematical operators
@@ -21,7 +21,7 @@ console.log(myNum * myOtherNum);
 // Strings - strings of characters surrounded by quotes.
 var myStringVariable = "My name's Jeff!";
 // these are escapes
-var quote = "She said, \"Hello\"";
+var quote = 'She said, "Hello"';
 
 // String concatenation
 var greeting = 'hello ';
@@ -37,3 +37,8 @@ var isYoung = false;
 // 2. No hyphens/dashes
 // 3. Cannot start with a number
 // 4. Cannot used reserved keywords
+
+if (true) {
+  // do something
+  
+}
